@@ -22,3 +22,8 @@
 - PyTorch
 - Scikit-learn
 - Git
+
+##Contact Me 📬
+- 이메일: qorn3ck@gmail.com
+- 전화번호 : 010-4916-6674
+- GitHub: JH010198

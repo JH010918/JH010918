@@ -8,7 +8,7 @@
 | 2020.03 ~ 2026.02 | 홍익대학교 세종캠퍼스 | 기계정보공학 졸업 |
 ## 📂 Projects
 
-### 1️⃣ RIE Etch Depth Prediction
+### 1️⃣ [Article_EtchDepthPrediction](https://github.com/JH010918/Article_EtchDepthPrediction)
 - Random Forest
 - Bayesian Neural Network
 - SHAP Analysis

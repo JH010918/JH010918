@@ -1,16 +1,24 @@
-## Hi there 👋
+# Ji Hoon Portfolio
 
-<!--
-**JH010918/JH010918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+| 기간 | 활동/경력 | 주요 업무 |
+|----------|------------|------|
+|  |  |  |
+| 2025.12 ~ 2026. | AI 융합 로봇 SW 개발자 아카데미 |  |
+| 2020.03 ~ 2026.02 | 홍익대학교 세종캠퍼스 | 기계정보공학 졸업 |
+## 📂 Projects
 
-Here are some ideas to get you started:
+### 1️⃣ RIE Etch Depth Prediction
+- Random Forest
+- Bayesian Neural Network
+- SHAP Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 2️⃣ YOLO Object Detection
+- Custom dataset training
+- OpenCV integration
+
+## 🛠 Tech Stack
+- Python
+- PyTorch
+- Scikit-learn
+- Git

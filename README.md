@@ -12,7 +12,10 @@
 - 반도체 식각 두께 예측 모델 개발 (RF,GB,ANN)
 
 ### 2️⃣ [Project_SmartPLCMaterialSystem](https://github.com/JH010918/Project_SmartPLCMaterialSystem)
-- PLC 기반 소재 판별형 자동 입출고 시스템 
+- PLC 기반 소재 판별형 자동 입출고 시스템
+
+### 3️⃣ [Project_CleanPolice](https://github.com/JH010918/Project_CleanPolice)
+- AI를 이용한 방 청결도 분석 서비스
 
 ## 🛠 Tech Stack
 - Python

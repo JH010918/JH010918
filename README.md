@@ -11,11 +11,10 @@
 ### 1️⃣ [Article_EtchDepthPrediction](https://github.com/JH010918/Article_EtchDepthPrediction)
 - 반도체 식각 두께 예측 모델 개발 (RF,GB,ANN)
 
-### 2️⃣ [Project_SmartPLCMaterialSystem](https://github.com/JH010918/Project_SmartPLCMaterialSystem)
-- PLC 기반 소재 판별형 자동 입출고 시스템
+### 2️⃣ [소재 판별형 자동 입출고 시스템](https://github.com/JH010918/Project_SmartPLCMaterialSystem)
+- PLC 기반 
 
-### 3️⃣ [Project_CleanPolice](https://github.com/JH010918/Project_CleanPolice)
-- AI를 이용한 방 청결도 분석 서비스
+### 3️⃣ [방 청결도 분석 서비스](https://github.com/JH010918/Project_CleanPolice)
 - 청결도 점수화 (ResNet50)
 - dirty 구역 시각화(Grad-CAM) 및 객체 분포 분석(YOLO)
 - 방 상태 요약(CLIP)

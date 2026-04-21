@@ -20,9 +20,8 @@
 - 방 상태 요약(CLIP)
 
 ### 4️⃣ [밸런싱봇](https://github.com/JH010918/Project_BalancingBot)
-- 청결도 점수화 (ResNet50)
-- dirty 구역 시각화(Grad-CAM) 및 객체 분포 분석(YOLO)
-- 방 상태 요약(CLIP)
+- 실시간 자세 제어 (PID)
+- 정밀 모터 구동 (PWM & Embedded)
 
 ## 🛠 Tech Stack
 - Python

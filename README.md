@@ -8,7 +8,7 @@
 | 2020.03 ~ 2026.02 | 홍익대학교 세종캠퍼스 | 기계정보공학 졸업 |
 ## 📂 Projects
 
-### 1️⃣ [Article_EtchDepthPrediction](https://github.com/JH010918/Article_EtchDepthPrediction)
+### 1️⃣ [AI 기반 반도체 플라즈마 식각 깊이 예측 모델](https://github.com/JH010918/Article_EtchDepthPrediction)
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
 > - 반도체 식각 두께 예측 모델 개발 (RF,GB,ANN)
 

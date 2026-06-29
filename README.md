@@ -12,18 +12,25 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
 > - 반도체 식각 두께 예측 모델 개발 (RF,GB,ANN)
 
-### 2️⃣ [밸런싱봇](https://github.com/JH010918/Project_BalancingBot)
+### 2️⃣ [빅핑키 캐리어](https://github.com/JH010918/Project_vicpinkycarrier)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
+> - 마커 및 라인 트레이싱을 이용한 터틀봇 상하차
+> - 프론티어 기반 자율 탐색을 이용한 실시간 지도 작성
+> - opencv를 이용하여 구급품 및 물을 omx를 통해 적재
+> - FMS(Fleet Management System)을 통한 효율적인 터틀봇 제어 시스템
+
+### 3️⃣ [밸런싱봇](https://github.com/JH010918/Project_BalancingBot)
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/><br/>
 > - 실시간 자세 제어 (PID)
 > - 정밀 모터 구동 (PWM & Embedded)
 
-### 3️⃣ [방 청결도 분석 서비스](https://github.com/JH010918/Project_CleanPolice)
+### 4️⃣ [방 청결도 분석 서비스](https://github.com/JH010918/Project_CleanPolice)
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
 > - 청결도 점수화 (ResNet50)
 > - dirty 구역 시각화(Grad-CAM) 및 객체 분포 분석(YOLO)
 > - 방 상태 요약(CLIP)
 
-### 4️⃣ [소재 판별형 자동 입출고 시스템](https://github.com/JH010918/Project_SmartPLCMaterialSystem)
+### 5️⃣ [소재 판별형 자동 입출고 시스템](https://github.com/JH010918/Project_SmartPLCMaterialSystem)
 <img src="https://img.shields.io/badge/PLC-green?style=flat-square"/><br/>
 > - 컨베이어 이송 중 금속·비금속 소재 판별 및 적재 자동화 시스템(PLC)
 

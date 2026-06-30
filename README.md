@@ -37,8 +37,12 @@
 
 ## 🛠 Tech Stack
 - Python
-- 
+- C
+- ROS2
+- Linux
 
-##Contact Me 📬
+
+
+## Contact Me 📬
 - e-mail: qorn3ck@gmail.com
 - GitHub: JH010198

@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
 > - 반도체 식각 두께 예측 모델 개발 (RF,GB,ANN)
 
-### 2️⃣ [빅핑키 캐리어](https://github.com/JH010918/Project_vicpinkycarrier)
+### 2️⃣ [빅핑키 캐리어](https://github.com/ManticoreXL/vicpinky_carrier)
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
 > - 마커 및 라인 트레이싱을 이용한 터틀봇 상하차
 > - 프론티어 기반 자율 탐색을 이용한 실시간 지도 작성
